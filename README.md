@@ -18,13 +18,16 @@ It features both **Single Player** (against AI) and **Multiplayer** modes with a
 ## 📸 Screenshots
 Here are some screenshots of **Tic Tac Toe – Tkinter Edition** in action:
 
-![Main Menu]([path/to/screenshot-main-menu.png](https://raw.githubusercontent.com/hamzza07x/Tic-Tac-Toe/refs/heads/main/1.png))
+# Main Menu
+(https://raw.githubusercontent.com/hamzza07x/Tic-Tac-Toe/refs/heads/main/1.png))
 *Main Menu*
 
-![Single Player Mode](https://raw.githubusercontent.com/hamzza07x/Tic-Tac-Toe/refs/heads/main/2.png)
+# Single Player Mode
+(https://raw.githubusercontent.com/hamzza07x/Tic-Tac-Toe/refs/heads/main/2.png)
 *Playing Single Player Mode*
 
-![Multiplayer Mode](https://raw.githubusercontent.com/hamzza07x/Tic-Tac-Toe/refs/heads/main/3.png)
+# Multiplayer Mode
+(https://raw.githubusercontent.com/hamzza07x/Tic-Tac-Toe/refs/heads/main/3.png)
 *Multiplayer mode gameplay*
 
 ---
